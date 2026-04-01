@@ -1,0 +1,2 @@
+# claude-evolve
+sentence-transformers>=3.0
